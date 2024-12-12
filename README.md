@@ -7,3 +7,5 @@
 
  This Power BI project focuses on analyzing the sales data of shopping malls in Istanbul. The data was obtained from a free Kaggle database and was transformed using DAX language. The main objective of this project is to showcase my skills in using Power BI to create a comprehensive sales analysis dashboard.
 # Data Set Link - https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
+# Power-BI-Shopping-mall-Perfomance-dashboard
+![Dashboard - Shopping mall performance (1)_page-0001](https://github.com/user-attachments/assets/5e93415c-d185-48dc-93d4-66e737d2a1d9)
